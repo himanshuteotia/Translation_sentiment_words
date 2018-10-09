@@ -1,0 +1,23 @@
+{
+  "name": "google-translate-sentiment-words",
+  "version": "1.0.0",
+  "description": "Translate English words to Malay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshuteotia/Translation_sentiment_words.git"
+  },
+  "keywords": [
+    "Sentiment",
+    "anlaysis"
+  ],
+  "author": "Himanshu Teotia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/himanshuteotia/Translation_sentiment_words/issues"
+  },
+  "homepage": "https://github.com/himanshuteotia/Translation_sentiment_words#readme"
+}
