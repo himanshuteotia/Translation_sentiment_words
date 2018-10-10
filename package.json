@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/himanshuteotia/Translation_sentiment_words/issues"
   },
-  "homepage": "https://github.com/himanshuteotia/Translation_sentiment_words#readme"
+  "homepage": "https://github.com/himanshuteotia/Translation_sentiment_words#readme",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "google-translate-api": "^2.3.0",
+    "multer": "^1.4.0",
+    "node-xlsx": "^0.12.1",
+    "tunnel": "0.0.6"
+  }
 }
